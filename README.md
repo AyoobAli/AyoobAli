@@ -18,3 +18,10 @@ TCPing is a tool that allows you to use a TCP connection to ping a service. It c
 The tool also allows you to excute a custom command when the status of the service changes, for example run a command to send SMS when the service is down/up.
 
 More examples can be found in the [Repository Page](https://github.com/AyoobAli/TCPing#usage).
+
+
+## [easySQLite3](https://github.com/AyoobAli/easySQLite3)
+
+easySQLite3 is a PHP class that makes talking to SQLite3 Database easier, and it takes care of prepared statements to securely communicate with the database and prevent SQL-Injections.
+
+Full documentation available in the [Wiki Page](https://github.com/AyoobAli/easySQLite3/wiki).

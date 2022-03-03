@@ -25,3 +25,6 @@ More examples can be found in the [Repository Page](https://github.com/AyoobAli/
 easySQLite3 is a PHP class that makes talking to SQLite3 Database easier, and it takes care of prepared statements to securely communicate with the database and prevent SQL-Injections.
 
 Full documentation available in the [Wiki Page](https://github.com/AyoobAli/easySQLite3/wiki).
+
+
+## [Qawalib](https://github.com/AyoobAli/Qawalib)

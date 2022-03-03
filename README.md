@@ -29,6 +29,10 @@ Full documentation available in the [Wiki Page](https://github.com/AyoobAli/easy
 
 ## [Qawalib](https://github.com/AyoobAli/Qawalib)
 
+Qawalib is a light and powerful Template Engine for PHP.
+
+Some examples can be found in the [Repository Page](https://github.com/AyoobAli/Qawalib#example).
+
 
 ## [cBase](https://github.com/AyoobAli/cBase)
 

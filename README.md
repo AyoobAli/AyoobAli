@@ -10,6 +10,7 @@ A uniq feature in this tool is, it allows you to execute a custom command on eac
 
 More examples can be found in the [Repository Page](https://github.com/AyoobAli/pyfuzz#usage).
 
+Dev Branch [v1.1.1-Dev.01](https://github.com/AyoobAli/pyfuzz/tree/issue-3)
 
 ## [TCPing](https://github.com/AyoobAli/TCPing) v0.2.2 (Beta)
 

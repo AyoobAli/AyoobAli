@@ -28,7 +28,7 @@ easySQLite3 is a PHP class that makes talking to SQLite3 Database easier, and it
 Full documentation available in the [Wiki Page](https://github.com/AyoobAli/easySQLite3/wiki).
 
 
-## [Qawalib](https://github.com/AyoobAli/Qawalib) v0.1.2 (Beta)
+## [Qawalib](https://github.com/AyoobAli/Qawalib) v0.1.3 (Beta)
 
 Qawalib is a light and powerful Template Engine for PHP.
 

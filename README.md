@@ -41,3 +41,9 @@ cBase is a PHP class that can be used as a base to any class, it provides the ma
 
 Some examples can be found in the [Repository Page](https://github.com/AyoobAli/cBase#example).
 
+## [ransomwatch-cli](https://github.com/AyoobAli/ransomwatch-cli) v0.1.0 (Beta)
+
+CLI interface to get Ransomware attacks data from ransomwhat.telemetry.ltd
+
+More examples can be found in the [Repository Page](https://github.com/AyoobAli/ransomwatch-cli#usage).
+

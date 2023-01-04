@@ -47,3 +47,9 @@ CLI interface to get Ransomware attacks data from ransomwhat.telemetry.ltd
 
 More examples can be found in the [Repository Page](https://github.com/AyoobAli/ransomwatch-cli#usage).
 
+
+## [DNSub](https://github.com/AyoobAli/DNSub) v0.1.0 (Beta)
+
+Subdomain discovery tool
+
+More information can be found in the [Repository Page](https://github.com/AyoobAli/DNSub#usage).

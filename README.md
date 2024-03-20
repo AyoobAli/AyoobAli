@@ -1,5 +1,7 @@
 ![Banner](banner-avatar-tr.png)
 
+[Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ayoobali)
+
 # Recommended Tools:
 
 ## [pyFuzz](https://github.com/AyoobAli/pyfuzz) v1.1.0
@@ -53,3 +55,4 @@ More examples can be found in the [Repository Page](https://github.com/AyoobAli/
 Subdomain discovery tool
 
 More information can be found in the [Repository Page](https://github.com/AyoobAli/DNSub#usage).
+

@@ -1,6 +1,6 @@
 ![Banner](banner-avatar-tr.png)
 
-[Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ayoobali)
+[Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ayoobali)
 
 # Recommended Tools:
 
